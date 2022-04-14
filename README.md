@@ -1,1 +1,51 @@
+  # Hello Folks, I'm [Sparsh Garg](https://bit.ly/sparshgarg15)
+## I'm a Student, Learner and Developer !!!
+<img align="right" width="22%" src="https://www.memesmonkey.com/images/memesmonkey/b2/b2dd360b14b4f7d7680d90b3cd9376ba.jpeg">
 
+- 🔭 My aim is to learn and excel
+- 🌱 Just figuring out stuff !!!
+- 👯 I work and learn with my friends 
+- 🥅 2022 Goals: work on web dev and blockchain technology
+- ⚡ Fun fact: I love to play many sports and learn about outer Space 
+
+---
+
+### Connect with me:
+
+<div align="left">
+        <a href="https://www.instagram.com/sparshgarg15/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+        <a href="mailto:gargsparsh287@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+
+---
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-500x313.png" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+
+
+<br />
+<br />
+
+---
+
+<p align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sparshgarg1&show_icons=true&theme=tokyonight&show_icons=true" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sparshgarg1&theme=tokyonight" />
+</p>
+
+---
+
+[![Sparsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sparshgarg1&theme=xcode)](https://git.io/sparshgarg1)
+
+---
+
+-> Check out my [Portfolio](https://bit.ly/sparshgarg15)
+<br />
+-> Connect with me on [Instagram](https://www.instagram.com/sparshgarg15/)
