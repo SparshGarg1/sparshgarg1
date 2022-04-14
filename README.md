@@ -2,11 +2,11 @@
 ## I'm a Student, Learner and Developer !!!
 <img align="right" width="22%" src="https://www.memesmonkey.com/images/memesmonkey/b2/b2dd360b14b4f7d7680d90b3cd9376ba.jpeg">
 
-- 🔭 My aim is to learn and excel
+- 🔭 My aim is to become Java Devloper
 - 🌱 Just figuring out stuff !!!
 - 👯 I work and learn with my friends 
-- 🥅 2022 Goals: work on web dev and blockchain technology
-- ⚡ Fun fact: I love to play many sports and learn about outer Space 
+- 🥅 2022 Goals: Learn new Web Devlopment skills 
+- ⚡ Fun fact: I love to listen music. 
 
 ---
 
