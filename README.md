@@ -1,6 +1,6 @@
   # Hello Folks, I'm [Sparsh Garg](https://bit.ly/sparshgarg15)
 ## I'm a Student, Learner and Developer !!!
-<img align="right" width="22%" src="https://www.memesmonkey.com/images/memesmonkey/b2/b2dd360b14b4f7d7680d90b3cd9376ba.jpeg">
+<img align="right" width="22%" src="https://content.techgig.com/thumb/msid-79998104,width-460,resizemode-4/Want-to-learn-a-programming-language-Follow-this-learning-plan.jpg?77507">
 
 - 🔭 My aim is to become Java Devloper
 - 🌱 Just figuring out stuff !!!
