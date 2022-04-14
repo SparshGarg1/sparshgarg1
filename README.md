@@ -14,6 +14,7 @@
 
 <div align="left">
         <a href="https://www.instagram.com/sparshgarg15/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/sparsh-garg-a7b045204"><img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" /></a>
         <a href="mailto:gargsparsh287@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
