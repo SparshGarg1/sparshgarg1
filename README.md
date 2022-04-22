@@ -12,13 +12,12 @@
 
 ### Connect with me:
 
-<div align="left">
-        <a href="https://www.instagram.com/sparshgarg15/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+ <a href="https://twitter.com/Sparsh_garg15"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/sparsh-garg-a7b045204"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="https://instagram.com/sparshgarg15"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" /></a>
         <a href="mailto:gargsparsh287@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-          <a href="https://www.linkedin.com/in/sparsh-garg-a7b045204" ><img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="width:29px; height:29px;" /></a>
-</div>
-
----
+        <a href="https://www.hackerrank.com/gargsparsh287"><img alt="Hackerrank" src="https://img.shields.io/badge/Hackerrank-%230077B5.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+   
 
 ### Languages and Tools:
 
