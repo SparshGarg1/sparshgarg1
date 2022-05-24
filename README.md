@@ -1,12 +1,11 @@
 # Hello Folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm [Sparsh Garg](https://bit.ly/sparshgarg15) 
 ## I'm a Student, Learner and Developer !!!
 <img align="right" width="22%" src="https://content.techgig.com/thumb/msid-79998104,width-460,resizemode-4/Want-to-learn-a-programming-language-Follow-this-learning-plan.jpg?77507">
-
-- 🔭 My aim is to become Java Devloper
-- 🌱 Just figuring out stuff !!!
-- 👯 I work and learn with my friends 
-- 🥅 2022 Goals: Learn new Java Devlopment skills 
-- ⚡ Fun fact: I love to listen music. 
+## Work Experience 👔
+* Full Stack Web Developer Intern at Descrii.tech
+* Software Developer Intern at MADIEE Games
+* Chapter Lead at CodeChef College Chapter
+* Web Developer, Graphic Designer at Incubation Cell, Medi-Caps University 
 
 ---
 
