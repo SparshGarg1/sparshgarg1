@@ -47,11 +47,5 @@
 
 ---
 
-[![Sparsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sparshgarg1&theme=xcode)](https://git.io/Sparshgarg1)
-
----
-
-
 -> Check out my [Portfolio](https://bit.ly/sparshgarg15)
 <br />
--> Connect with me on [Instagram](https://www.instagram.com/sparshgarg15/)
