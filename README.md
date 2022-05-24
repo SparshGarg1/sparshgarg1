@@ -41,10 +41,13 @@
 </p>
 
 ---
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=Sparshgarg1)
+---
 
-[![Sparsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sparshgarg1&theme=xcode)](https://git.io/sparshgarg1)
+[![Sparsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sparshgarg1&theme=xcode)](https://git.io/Sparshgarg1)
 
 ---
+
 
 -> Check out my [Portfolio](https://bit.ly/sparshgarg15)
 <br />
