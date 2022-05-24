@@ -28,11 +28,13 @@
 <br />
 
 ---
-
-<p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sparshgarg1&show_icons=true&theme=tokyonight&show_icons=true" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sparshgarg1&theme=tokyonight" />
-</p>
+### Work Experience 👔
+* JAVA Intern (Twowaits Technologies Private Limited)
+---
+## GitHub Stats 🎗️:
+![Sparsh's github stats](https://github-readme-stats.vercel.app/api?username=sparshgarg1&show_icons=true&theme=radical)
+  
+![Sparsh's github stats](https://github-readme-streak-stats.herokuapp.com/?user=sparshgarg1)
 
 ---
 ### LeetCode Stats:
