@@ -5,7 +5,7 @@
 - 🔭 My aim is to become Java Devloper
 - 🌱 Just figuring out stuff !!!
 - 👯 I work and learn with my friends 
-- 🥅 2022 Goals: Learn new Web Devlopment skills 
+- 🥅 2022 Goals: Learn new Java Devlopment skills 
 - ⚡ Fun fact: I love to listen music. 
 
 ---
