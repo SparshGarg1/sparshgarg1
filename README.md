@@ -42,9 +42,9 @@
 
 ---
 ### LeetCode Stats:
-<center>
+<p align="center">
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=sparshgarg)
-</center>
+</p>
 ---
 
 [![Sparsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sparshgarg1&theme=xcode)](https://git.io/Sparshgarg1)
