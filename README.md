@@ -35,11 +35,9 @@
 ![Sparsh's github stats](https://github-readme-stats.vercel.app/api?username=sparshgarg1&show_icons=true&theme=radical)
   
 ![Sparsh's github stats](https://github-readme-streak-stats.herokuapp.com/?user=Sparshgarg1)
+
 ---
-## GFG Stats 🎗️:
-[![Sparsh's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=gargsparsh287)](https://auth.geeksforgeeks.org/user/gargsparsh287/practice/)
----
-### LeetCode Stats:
+### LeetCode and GFG Stats:
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=sparshgarg)
 [![Sparsh's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=gargsparsh287)](https://auth.geeksforgeeks.org/user/gargsparsh287/practice/)
