@@ -44,5 +44,7 @@
 [![Sparsh's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=gargsparsh287)](https://auth.geeksforgeeks.org/user/gargsparsh287/practice/)
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashnerkar&show_icons=true&locale=en&layout=compact" alt="yashnerkar" /></p>
+---
 -> Check out my [Portfolio](https://bit.ly/sparshgarg15)
 <br />
