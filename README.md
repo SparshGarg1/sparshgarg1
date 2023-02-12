@@ -42,8 +42,9 @@
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=sparshgarg)
 [![Sparsh's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=gargsparsh287)](https://auth.geeksforgeeks.org/user/gargsparsh287/practice/)
----
 
+---
+### Most Use Languages:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashnerkar&show_icons=true&locale=en&layout=compact" alt="yashnerkar" /></p>
 
 
