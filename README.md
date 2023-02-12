@@ -45,7 +45,7 @@
 
 ---
 ### Most Use Languages:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashnerkar&show_icons=true&locale=en&layout=compact" alt="yashnerkar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparshgarg1&show_icons=true&locale=en&layout=compact" alt="sparshgarg1" /></p>
 
 
 <!-- -> Check out my [Portfolio](https://bit.ly/sparshgarg15)
