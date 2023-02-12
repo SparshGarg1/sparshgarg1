@@ -37,7 +37,7 @@
 ![Sparsh's github stats](https://github-readme-streak-stats.herokuapp.com/?user=Sparshgarg1)
 ---
 ## GFG Stats 🎗️:
-[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=<gargsparsh287>)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+[![Sparsh's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=<gargsparsh287>)](https://github.com/napiyo/geeksForGeeksStatsAPI)
 ---
 ### LeetCode Stats:
 
