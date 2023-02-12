@@ -46,6 +46,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashnerkar&show_icons=true&locale=en&layout=compact" alt="yashnerkar" /></p>
 
----
+
 <!-- -> Check out my [Portfolio](https://bit.ly/sparshgarg15)
 <br /> -->
