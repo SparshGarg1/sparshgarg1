@@ -42,7 +42,7 @@
 ### LeetCode Stats:
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=sparshgarg)
-
+[![Sparsh's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=gargsparsh287)](https://auth.geeksforgeeks.org/user/gargsparsh287/practice/)
 ---
 
 -> Check out my [Portfolio](https://bit.ly/sparshgarg15)
