@@ -31,6 +31,7 @@
 ---
 ### Work Experience 👔
 * JAVA Intern (Twowaits Technologies Private Limited)
+* Web Developer (Affimintus Technologies,  Indore)
 ---
 ## GitHub Stats 🎗️:
 ![Sparsh's github stats](https://github-readme-stats.vercel.app/api?username=sparshgarg1&show_icons=true&theme=radical)
