@@ -36,7 +36,7 @@
 ## GitHub Stats 🎗️:
 ![Sparsh's github stats](https://github-readme-stats.vercel.app/api?username=sparshgarg1&show_icons=true&theme=radical)
   
-![Sparsh's github stats](https://github-readme-streak-stats.herokuapp.com/?user=Sparshgarg1)
+![Sparsh's github stats](<img width="48%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=sparshgarg1&theme=tokyonight" />)
 
 ---
 ### LeetCode and GFG Stats:
