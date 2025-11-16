@@ -1,6 +1,6 @@
 # Hello Folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm [Sparsh Garg](https://bit.ly/sparshgarg15) 
 
-## I'm a Student, Learner and Developer!!!
+## I'm a Developer!!!
 <img align="right" width="30%" src="https://content.techgig.com/thumb/msid-79998104,width-460,resizemode-4/Want-to-learn-a-programming-language-Follow-this-learning-plan.jpg?77507">
 
 
